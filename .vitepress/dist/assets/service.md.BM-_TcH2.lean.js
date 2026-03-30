@@ -1,0 +1,1 @@
+import{_ as i,o as e,c as r,ai as l}from"./chunks/framework.DKRJm8HN.js";const d=JSON.parse('{"title":"会员服务协议","description":"","frontmatter":{},"headers":[],"relativePath":"service.md","filePath":"service.md"}'),a={name:"service.md"};function o(p,t,s,_,c,n){return e(),r("div",null,[...t[0]||(t[0]=[l("",2)])])}const m=i(a,[["render",o]]);export{d as __pageData,m as default};
